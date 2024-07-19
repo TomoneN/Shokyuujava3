@@ -6,7 +6,7 @@ public class Start {
 		// TODO 自動生成されたメソッド・スタブ
 		System.out.println("プログラムを実行します");
         @SuppressWarnings("unused")
-		MyFrame frame1=new Rectlf();
+		MyFrame frame1=new DisplayFaceObject();
 	}
 
 }

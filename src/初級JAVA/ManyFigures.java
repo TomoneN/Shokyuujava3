@@ -1,5 +1,16 @@
 package 初級JAVA;
 
-public class ManyFigures {
-
+public class ManyFigures extends MyFrame{
+	public void run() {
+		int x=30;
+		setColor(0,128,0);
+		fillRect(30,80,10,100);
+		fillRect(50,80,10,100);
+		fillRect(70,80,10,100);
+		fillRect(90,80,10,100);
+		fillRect(110,80,10,100);
+		fillRect(130,80,10,100);
+		fillRect(150,80,10,100);
+		fillRect(170,80,10,100);
+	}
 }
